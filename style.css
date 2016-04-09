@@ -1,0 +1,21 @@
+.meghan {
+	color: blue;
+}
+.tobin {
+	color: red;
+}
+
+.ali {
+	color: blue;
+}
+.title {
+	position: fixed;
+	margin-top: -100px;
+	background-color: white;
+	opacity: 0.4;
+	filter: alpha(opacity=40); 
+	text-center
+}
+.lower {
+	margin-top: 150px;
+}
